@@ -1,0 +1,66 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "f425a061-6f61-496e-ace0-46bcd0426fb3",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "button {\n",
+    "  display: block;\n",
+    "  margin: 0 auto 50px;\n",
+    "  padding: 15px 30px;\n",
+    "  background: #4a148c;\n",
+    "  color: #fff;\n",
+    "  font-size: 1.2em;\n",
+    "  border: none;\n",
+    "  border-radius: 30px;\n",
+    "  cursor: pointer;\n",
+    "  transition: 0.3s ease;\n",
+    "}\n",
+    "\n",
+    "button:hover {\n",
+    "  background: #6a1b9a;\n",
+    "  transform: scale(1.05);\n",
+    "}\n",
+    "\n",
+    "footer {\n",
+    "  text-align: center;\n",
+    "  padding: 20px;\n",
+    "  background: #eee;\n",
+    "  border-top: 1px solid #ddd;\n",
+    "}\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "2655ae09-d092-4f5a-ad9e-c02b5e728353",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python [conda env:base] *",
+   "language": "python",
+   "name": "conda-base-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.7"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
